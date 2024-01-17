@@ -1,4 +1,1 @@
 # todolist
-
-login test
-tsr
